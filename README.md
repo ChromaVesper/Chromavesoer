@@ -1,16 +1,11 @@
 # 💫 Student at IIT Patna | CSDA | Data & Tech Explorer | Open to Opportunities | Poet at Heart, Coder by Choice
-
 Email Me 👉 ✉️ **amr803056@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🌱 **I’m currently learning:** computer science and data analytic from it Patna
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** akshay_ua2503cdh375@iitp.ac.in
 - 😄 **Pronouns:** pikshu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
 ## 🔗 I am a student. 
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshay.lekh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshaymehta7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Amr803056@gmail.com) 
 <!-- Snake Game Repo View -->
